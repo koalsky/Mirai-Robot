@@ -18,7 +18,7 @@ public class MiraiRobotStar {
         // SpringBoot启动
         SpringApplication.run(MiraiRobotStar.class,args);
         // Mirai启动
-        RobotStar.star(ApplicationContextHelper.getBean(FriendListener.class),
-                ApplicationContextHelper.getBean(GroupListener.class));
+//        RobotStar.star(ApplicationContextHelper.getBean(FriendListener.class),
+//                ApplicationContextHelper.getBean(GroupListener.class));
     }
 }
