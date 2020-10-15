@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "properties": {
+      "id": {
+        "type": "text"
+      },
+      "age": {
+        "type": "integer"
+      },
+      "name": {
+        "type": "text"
+      }
+    }
+  }
+}

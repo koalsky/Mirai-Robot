@@ -16,11 +16,6 @@
     <dependencies>
         <dependency>
             <groupId>com.hyq.robot</groupId>
-            <artifactId>Robot-dao</artifactId>
-            <version>${botVersion}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.hyq.robot</groupId>
             <artifactId>Robot-client</artifactId>
             <version>${botVersion}</version>
         </dependency>

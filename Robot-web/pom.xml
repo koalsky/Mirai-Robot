@@ -19,6 +19,11 @@
             <artifactId>Robot-core</artifactId>
             <version>${botVersion}</version>
         </dependency>
+        <dependency>
+            <groupId>com.hyq.robot</groupId>
+            <artifactId>Robot-es</artifactId>
+            <version>${botVersion}</version>
+        </dependency>
     </dependencies>
 
 
